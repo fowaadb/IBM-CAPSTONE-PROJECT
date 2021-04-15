@@ -4,4 +4,4 @@ This is the repository for the capstone project of IBM Professional Data Science
 Overview
 Coursera-IBM Capstone Project - Contains the Jupyter Notebook for the final project
 
-Final Presentation - Contains the presentation for the final project
+Presentation - Contains the presentation for the final project
